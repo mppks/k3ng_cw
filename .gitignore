@@ -1,0 +1,10 @@
+**/_src
+*.FCBak
+**/*-backups
+fp-info-cache
+fp-lib-table
+*.kicad_*
+!*.kicad_sch
+!*.kicad_pcb
+!*.kicad_pro
+k3ng_cw_keyer
