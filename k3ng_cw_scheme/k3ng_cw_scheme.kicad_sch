@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "3e5e5dd7-dd40-47be-817f-ade4e239a5c8")
 	(paper "A4")
+	(title_block
+		(company "R1TBJ")
+	)
 	(lib_symbols
 		(symbol "Connector:Mini-DIN-6"
 			(pin_names
